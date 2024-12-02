@@ -1,0 +1,2 @@
+este proyecto trata de crear un modelo en el que se prediga el proximo producto mas probable, como proximos pasos seria limiar mejor el catalogo de palabras
+ademas de tratar de distribuir los calculos en clusters de spark
